@@ -1,4 +1,11 @@
+- https://v0-zettelkasten-note-app.vercel.app
+- https://v0.dev/chat/projects/x1PSWTYbQJ0
+- 
 # ZettelTweet
+
+
+![image](https://github.com/user-attachments/assets/4edc1abf-c1f5-45cd-ae3c-76aa2984d4fd) ![image](https://github.com/user-attachments/assets/7935cb8b-d8ee-46e4-963b-68ec529352d0)
+
 
 ZettelTweet is a note-taking application inspired by the concept of using Twitter as a Zettelkasten system. It allows users to create short-form notes (similar to tweets) that can be interconnected through tags, mentions, and threading.
 
@@ -13,6 +20,22 @@ ZettelTweet is a note-taking application inspired by the concept of using Twitte
 - **Offline Support**: Full functionality even without internet connection
 - **Local Storage**: All notes are saved in your browser's local storage
 
+*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+ 
+ [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/evan-schultzs-projects/v0-zettelkasten-note-app)
+ [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/x1PSWTYbQJ0)
+ 
+ ## Overview
+ 
+ This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
+ Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+ 
+ ## Deployment
+ 
+ Your project is live at:
+ 
+ **[https://vercel.com/evan-schultzs-projects/v0-zettelkasten-note-app](https://vercel.com/evan-schultzs-projects/v0-zettelkasten-note-app)**
+ 
 ## Getting Started
 
 ### Prerequisites
