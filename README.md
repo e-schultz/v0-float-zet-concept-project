@@ -1,10 +1,11 @@
-- https://v0-zettelkasten-note-app.vercel.app
+\- https://v0-zettelkasten-note-app.vercel.app
 - https://v0.dev/chat/projects/x1PSWTYbQJ0
 - 
 # ZettelTweet
 
 
 ![image](https://github.com/user-attachments/assets/4edc1abf-c1f5-45cd-ae3c-76aa2984d4fd) ![image](https://github.com/user-attachments/assets/7935cb8b-d8ee-46e4-963b-68ec529352d0)
+<img width="1496" alt="Screenshot 2025-04-17 at 3 43 52 PM" src="https://github.com/user-attachments/assets/750fe4c8-5911-49e0-8bff-79bf6d61b5f3" />
 
 
 ZettelTweet is a note-taking application inspired by the concept of using Twitter as a Zettelkasten system. It allows users to create short-form notes (similar to tweets) that can be interconnected through tags, mentions, and threading.
